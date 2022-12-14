@@ -3,7 +3,8 @@ package com.example.pokeapi.data
 import com.example.pokeapi.data.model.LoggedInUser
 
 /**
- * Class that requests authentication and user information from the remote data source and
+ *
+ * Classe para autentificar
  * maintains an in-memory cache of login status and user credentials information.
  */
 
